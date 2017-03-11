@@ -1,0 +1,7 @@
+#Sat Mar 11 14:49:49 CST 2017
+base.0=/Users/strfly/Downloads/mvplearning/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ba6cca266a94d47ac12d938d645e4977faf93a3e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/strfly/Downloads/mvplearning/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2488c75c1fbaf3ba828e7b31e85e31e7eb9fefff/classes.dex
+base.1=/Users/strfly/Downloads/mvplearning/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2488c75c1fbaf3ba828e7b31e85e31e7eb9fefff
+file.0=/Users/strfly/Downloads/mvplearning/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ba6cca266a94d47ac12d938d645e4977faf93a3e/classes.dex
